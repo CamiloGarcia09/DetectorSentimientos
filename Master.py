@@ -1,7 +1,6 @@
 import streamlit as st
 import os
 import tempfile
-import shutil
 
 from Cortar import cortar_audio
 from Transcribir import transcribir_audio
